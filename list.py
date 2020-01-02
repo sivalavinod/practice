@@ -246,3 +246,82 @@
 # print(type(a))
 
 
+
+# s='python is very easy than java languag'
+# a=s.split()
+# print(a)
+# print(a[::-1])
+
+# a=eval(input("enter elements"))
+# b=eval(input("enter elements"))
+# c=input("enter elements")
+# d=list(input("enter elements"))
+
+# print("a is ",type(a))
+# print("b is ",type(b))
+# print("c is ",type(c))
+# print("d is ",type(d))
+
+# a=(10)      #int
+# b=(10,)     #tuple
+# c=10,20     #tuple
+# d=(10,20,30)    #tuple
+# e=10    #int
+# f=10,   #tuple
+# g='b'   #string
+# h='m',  #string.........tuple
+# i='m',1.2,5,True    #tuple
+# j=('m',1.2,5,True)  #tuple
+# k=True  #boolean
+# l={1:'hi'}  #set......dict
+# m={'a':"hi","b":2,3.5:True} #dictionary
+# n={1}       #set
+# o={1,2} #set
+# p={1:{'h':"hgjg"}}  #dictionary
+# q=range(1,10)   #
+# r={1,}  #set
+# s={1:123,}
+# t={1:123,2:321}
+# print(type(s))
+# print(type(t))
+#
+# print("a",type(a))
+# print("b",type(b))
+# print("c",type(c))
+# print("d",type(d))
+# print("e",type(e))
+# print("f",type(f))
+# print("g",type(g))
+# print("h",type(h))
+# print("i",type(i))
+# print("j",type(j))
+# print("k",type(k))
+# print("l",type(l))
+# print("m",type(m))
+# print("n",type(n))
+# print("o",type(o))
+# print("p",type(p))
+# print("q",type(q))
+# print("r",type(r))
+
+# l=[1,2,3,4,5]
+# print(l[1::1])
+# print(l[-4:-1:-1])
+# print(l[-4:1])
+# print(l[-1:1])
+# print(l[1:1:2])
+# print(l(range[::]))
+# print(l[1:])
+
+
+l=[1,4,2,6,5,10]
+l2=l[0]
+l3=[]
+for x in l:
+    if x<l2:
+        x=l2
+        l3.append(x)
+print(l3)
+
+
+

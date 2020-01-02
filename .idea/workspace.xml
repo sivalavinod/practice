@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d37a5b01-f79a-47d3-a09b-0bc3a877cc84" name="Default Changelist" comment="" />
+    <list default="true" id="d37a5b01-f79a-47d3-a09b-0bc3a877cc84" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/list.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,18 +14,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/practice$dictionary.coverage" NAME="dictionary Coverage Results" MODIFIED="1577365050954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/practice$dictionary.coverage" NAME="dictionary Coverage Results" MODIFIED="1577374412220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/practice$practice.coverage" NAME="practice Coverage Results" MODIFIED="1573951423442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/practice$matplot.coverage" NAME="matplot Coverage Results" MODIFIED="1576685161854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/practice$tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1576755104942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/practice$matplotlib.coverage" NAME="matplotlib Coverage Results" MODIFIED="1576310200360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled9$practice.coverage" NAME="practice Coverage Results" MODIFIED="1554300469204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/practice$regex.coverage" NAME="regex Coverage Results" MODIFIED="1576784477771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/practice$functions.coverage" NAME="functions Coverage Results" MODIFIED="1576784719795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/practice$functions.coverage" NAME="functions Coverage Results" MODIFIED="1577970040554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/practice$string.coverage" NAME="string Coverage Results" MODIFIED="1576950731419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/practice$file_handling.coverage" NAME="file_handling Coverage Results" MODIFIED="1576952348787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/practice$hcl.coverage" NAME="hcl Coverage Results" MODIFIED="1576494678182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/practice$list.coverage" NAME="list Coverage Results" MODIFIED="1577270682106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/practice$list.coverage" NAME="list Coverage Results" MODIFIED="1577687310016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/practice$2_practice.coverage" NAME="2.practice Coverage Results" MODIFIED="1576755471314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DatabaseView">
@@ -51,7 +56,7 @@
     <session id="1028392229">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="70" />
+          <entry key="project.closed" value="74" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.11" value="1" />
@@ -85,42 +90,42 @@
           <entry key="project.open.time.45" value="1" />
           <entry key="project.open.time.46" value="1" />
           <entry key="project.open.time.49" value="1" />
-          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.50" value="1" />
           <entry key="project.open.time.51" value="1" />
           <entry key="project.open.time.52" value="1" />
           <entry key="project.open.time.57" value="1" />
           <entry key="project.open.time.58" value="1" />
           <entry key="project.open.time.59" value="1" />
-          <entry key="project.open.time.6" value="6" />
+          <entry key="project.open.time.6" value="7" />
           <entry key="project.open.time.60" value="1" />
           <entry key="project.open.time.67" value="1" />
           <entry key="project.open.time.69" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.71" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="74" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="78" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="20815" />
+          <entry key="py" value="24626" />
           <entry key="sivala" value="15" />
           <entry key="sql" value="9" />
-          <entry key="txt" value="152" />
+          <entry key="txt" value="155" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="167" />
-          <entry key="Python" value="20815" />
+          <entry key="PLAIN_TEXT" value="170" />
+          <entry key="Python" value="24626" />
           <entry key="Scratch" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="hello" value="1" />
-          <entry key="py" value="33" />
+          <entry key="py" value="34" />
           <entry key="sivala" value="1" />
           <entry key="sql" value="1" />
           <entry key="txt" value="5" />
@@ -129,7 +134,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="33" />
+          <entry key="Python" value="34" />
           <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
@@ -140,15 +145,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/string.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/add.txt">
           <provider selected="true" editor-type-id="text-editor">
@@ -185,13 +181,30 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dictionary.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="87" column="10" lean-forward="true" selection-start-line="87" selection-start-column="10" selection-end-line="87" selection-end-column="10" />
+            <state relative-caret-position="1547">
+              <caret line="91" selection-start-line="91" selection-end-line="91" />
               <folding>
-                <marker date="1577365169238" expanded="true" signature="187:189" ph="..." />
+                <marker date="1577375329744" expanded="true" signature="187:189" ph="..." />
+                <marker date="1577375329744" expanded="true" signature="1961:1963" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/functions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="300" lean-forward="true" selection-start-line="300" selection-end-line="300" />
+              <folding>
+                <marker date="1577970164556" expanded="true" signature="28:35" ph="..." />
+                <marker date="1577970164556" expanded="true" signature="625:632" ph="..." />
+                <marker date="1577970164556" expanded="true" signature="1736:1737" ph="..." />
+                <marker date="1577970164556" expanded="true" signature="4494:4495" ph="..." />
+                <marker date="1577970164556" expanded="true" signature="5030:5061" ph="..." />
               </folding>
             </state>
           </provider>
@@ -200,7 +213,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/regex.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
+            <state relative-caret-position="334">
               <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
             </state>
           </provider>
@@ -209,10 +222,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1666">
-              <caret line="98" column="16" selection-start-line="98" selection-start-column="16" selection-end-line="98" selection-end-column="16" />
+            <state relative-caret-position="5236">
+              <caret line="308" column="20" selection-start-line="308" selection-start-column="20" selection-end-line="308" selection-end-column="20" />
               <folding>
-                <marker date="1577346845194" expanded="true" signature="315:317" ph="..." />
+                <marker date="1577686900220" expanded="true" signature="315:317" ph="..." />
               </folding>
             </state>
           </provider>
@@ -265,12 +278,12 @@
         <option value="$PROJECT_DIR$/tuple.py" />
         <option value="$PROJECT_DIR$/2.practice.py" />
         <option value="$PROJECT_DIR$/regex.py" />
-        <option value="$PROJECT_DIR$/functions.py" />
         <option value="$PROJECT_DIR$/string.py" />
         <option value="$PROJECT_DIR$/add.txt" />
         <option value="$PROJECT_DIR$/file_handling.py" />
-        <option value="$PROJECT_DIR$/list.py" />
         <option value="$PROJECT_DIR$/dictionary.py" />
+        <option value="$PROJECT_DIR$/list.py" />
+        <option value="$PROJECT_DIR$/functions.py" />
       </list>
     </option>
   </component>
@@ -326,7 +339,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dictionary">
+  <component name="RunManager" selected="Python.functions">
     <configuration name="dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled9" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -446,11 +459,11 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.dictionary" />
+        <item itemvalue="Python.functions" />
         <item itemvalue="Python.list" />
+        <item itemvalue="Python.dictionary" />
         <item itemvalue="Python.file_handling" />
         <item itemvalue="Python.string" />
-        <item itemvalue="Python.functions" />
       </list>
     </recent_temporary>
   </component>
@@ -487,6 +500,21 @@
       <workItem from="1563250991244" duration="6259000" />
       <workItem from="1563344732309" duration="717000" />
     </task>
+    <task id="LOCAL-00001" summary="all">
+      <created>1577367845120</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577367845121</updated>
+    </task>
+    <task id="LOCAL-00002" summary="all">
+      <created>1577367952654</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577367952654</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -495,13 +523,13 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49443206" visible="true" weight="0.1505295" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49443206" visible="true" weight="0.15506808" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5055679" side_tool="true" weight="0.14674735" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20949264" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.17348608" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31423897" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32733223" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -524,19 +552,13 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="all" />
+    <option name="LAST_COMMIT_MESSAGE" value="all" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/functions.py</url>
-          <line>173</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/functions.py</url>
-          <line>179</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/list.py</url>
           <line>18</line>
@@ -627,19 +649,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/functions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2533">
-          <caret line="149" selection-start-line="149" selection-end-line="149" />
-          <folding>
-            <marker date="1576861156498" expanded="true" signature="28:35" ph="..." />
-            <marker date="1576861156498" expanded="true" signature="625:632" ph="..." />
-            <marker date="1576861156498" expanded="true" signature="1736:1737" ph="..." />
-            <marker date="1576861156498" expanded="true" signature="3102:3109" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/file_handling.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3757">
@@ -682,19 +691,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/regex.py">
+    <entry file="file://$PROJECT_DIR$/dictionary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        <state relative-caret-position="1547">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+          <folding>
+            <marker date="1577375329744" expanded="true" signature="187:189" ph="..." />
+            <marker date="1577375329744" expanded="true" signature="1961:1963" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/list.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1666">
-          <caret line="98" column="16" selection-start-line="98" selection-start-column="16" selection-end-line="98" selection-end-column="16" />
+        <state relative-caret-position="5236">
+          <caret line="308" column="20" selection-start-line="308" selection-start-column="20" selection-end-line="308" selection-end-column="20" />
           <folding>
-            <marker date="1577346845194" expanded="true" signature="315:317" ph="..." />
+            <marker date="1577686900220" expanded="true" signature="315:317" ph="..." />
           </folding>
         </state>
       </provider>
@@ -713,12 +726,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dictionary.py">
+    <entry file="file://$PROJECT_DIR$/regex.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="87" column="10" lean-forward="true" selection-start-line="87" selection-start-column="10" selection-end-line="87" selection-end-column="10" />
+        <state relative-caret-position="334">
+          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="300" lean-forward="true" selection-start-line="300" selection-end-line="300" />
           <folding>
-            <marker date="1577365169238" expanded="true" signature="187:189" ph="..." />
+            <marker date="1577970164556" expanded="true" signature="28:35" ph="..." />
+            <marker date="1577970164556" expanded="true" signature="625:632" ph="..." />
+            <marker date="1577970164556" expanded="true" signature="1736:1737" ph="..." />
+            <marker date="1577970164556" expanded="true" signature="4494:4495" ph="..." />
+            <marker date="1577970164556" expanded="true" signature="5030:5061" ph="..." />
           </folding>
         </state>
       </provider>

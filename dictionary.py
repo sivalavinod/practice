@@ -82,13 +82,13 @@
 # {1: 'one', 2: {3: 'three', 5: 'four'}}
 # 2
 
-d={1:"a",2:"b",3:"c",4:{5:"d"},5:"e"}
+# d={1:"a",2:"b",3:"c",4:{5:"d"},5:"e"}
 # d[2][10]=d[2].pop(4)
 # d[4][0]=d[4].pop[0]
 # print(d)
 
-for x in d:
-    print(x.values)
+# for x in d:
+#     print(x.values)
 
 
 # d = {1:2,3:4}
